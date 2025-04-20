@@ -1,0 +1,3 @@
+import newImportPack
+
+newImportPack.welcome()
